@@ -59,11 +59,11 @@ nodejs-express-example/
 ├── public/      
 │	 └── index.html
 ├── src/
-│	 ├── routes/     
-│	 │	  └── routeController.js
-│	 ├── controllers/
-│	 │	  └── indexRoutes.js
-│	 └── app.js          
+│	├── routes/     
+│	│	  └── routeController.js
+│	├── controllers/
+│	│	  └── indexRoutes.js
+│	└── app.js          
 ├── package.json   
 ├── server.js 
 └── README.md       
