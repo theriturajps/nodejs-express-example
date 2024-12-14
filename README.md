@@ -57,13 +57,13 @@ Make sure you have the following installed on your machine:
 nodejs-express-example/
 ├── node_modules/   
 ├── public/      
-│	└── index.html
+│└── index.html
 ├── src/
-│	├── routes/     
-│	│	└── routeController.js
-│	├── controllers/
-│	│	└── indexRoutes.js
-│	└── app.js          
+│├── routes/     
+││	└── routeController.js
+│├── controllers/
+││	└── indexRoutes.js
+│└── app.js          
 ├── package.json   
 ├── server.js 
 └── README.md       
